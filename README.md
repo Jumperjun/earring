@@ -4,7 +4,7 @@ This is a React-based e-commerce application that allows users to browse product
 
 ## Live Demo
 
-[https://jumperjun.github.io/earring/](https://jumperjun.github.io/earring/)
+[https://earring-jun.vercel.app/](https://earring-jun.vercel.app/)
 
 # Getting Started with Create React App
 
