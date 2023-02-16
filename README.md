@@ -37,9 +37,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 This e-commerce application includes the following features:
 
 - Browse products in the shop page
-- View product details
 - Add products to cart
 - View cart
 - Update cart
 - Remove products from cart
-- Complete checkout process
+- Calculate total amount of the cart
