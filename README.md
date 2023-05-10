@@ -1,7 +1,5 @@
 # React Shopping Cart
 
-![IMAGE](/public/images/demo.jpg)
-
 This is a React-based e-commerce website that allows users to browse products, add them to a cart, and complete a checkout process.
 
 ## Live Demo
